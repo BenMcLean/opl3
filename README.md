@@ -18,4 +18,4 @@ This emulator has a high degree of accuracy, and most of music files sound almos
 
 Additional equipment should be used to verify the samples directly from the chip, and allow this exact per-sample correspondence. As a good side-effect, since this emulator uses floating point and has a more fine-grained envelope generator, it can produce sometimes a crystal-clear, denser kind of OPL3 sound that, because of that, may be useful for creating new music.
 
-Version 1.0.6
+Version 1.0.6 [found here](http://opl3.cozendey.com/)
